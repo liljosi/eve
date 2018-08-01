@@ -1,0 +1,35 @@
+@mixin busquedaAvanzadaInputs {
+    height: 53px;	
+    width: 497px;	
+    border: 1px solid #E5E5E5;	
+    border-radius: 5px;	
+    position: relative;
+}
+@mixin busquedaApellidosInputs {
+    height: 53px;	
+    width: 233px;	
+    border: 1px solid #E5E5E5;	
+    border-radius: 5px;
+    position: relative;
+}
+@mixin formFont {
+    font-family: Hind;	
+    font-size: 16px;	
+    font-weight: 600;
+}
+@mixin inputFont {
+    font-family: Hind;	
+    font-size: 14px;
+}
+@mixin inputMediano {
+    height: 53px;	
+    width: 233px;	
+    border: 1px solid #E5E5E5;	
+    border-radius: 5px;
+}
+@mixin inputGrande {
+    height: 53px;	
+    width: 497px;	
+    border: 1px solid #E5E5E5;	
+    border-radius: 5px;
+}

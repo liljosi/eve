@@ -1,0 +1,164 @@
+.busquedaContainer {
+    position: relative;
+    top: 130px;
+    left: 80px;
+}
+.busquedaNombreInput {
+    height: 53px;	
+    width: 412px;	
+    border: 1px solid #E5E5E5;	
+    border-radius: 5px;
+    position: relative;
+    right: 50px;
+    top: 60px;
+    @include inputFont;
+}
+.busquedaPrimerApellidoInput {
+    @include busquedaApellidosInputs;
+    @include inputFont;
+    top: 60px;
+    right: 130px;
+}
+.busquedaSegundoApellidoInput {
+    @include busquedaApellidosInputs;
+    @include inputFont;
+    left: 740px;
+    top: 5px;
+}
+.busquedaSegundoApellidoLabel {
+    position: relative;
+    right: 90px;
+    @include formFont;
+}
+.busquedaPrimerApellidoLabel {
+    position: relative;
+    right: 10px;
+    @include formFont;
+}
+.busquedaMainContainer {
+    height: 141px;	
+    width: 1170px;	
+    border-radius: 5px;	
+    background-color: #FFFFFF;	
+    box-shadow: 0 2px 4px 0 rgba(185,185,185,0.5);
+    position: relative;
+    bottom: 60px;
+}
+.busquedaButton {
+    height: 53px;	
+    width: 73px;	
+    border-radius: 5px;	
+    background-color: #4A90E2;
+    position: relative;
+    left: 775px;
+    top: 5px;
+}
+.busquedaLabel {
+    position: relative;
+    left: 35px;
+    @include formFont;
+}
+.busquedaAvanzadaContainer {
+    height: 409px;	
+    width: 1105px;	
+    border-radius: 5px;	
+    background-color: #FFFFFF;	
+    box-shadow: 0 2px 4px 0 rgba(185,185,185,0.5);
+    position: relative;
+    bottom: 0px;
+    top: 70px;
+    left: 100px;
+}
+.busquedaInputNombre {
+  @include busquedaAvanzadaInputs;
+  top: 80px;
+  right: 55px;
+}
+.busquedaInputDependencia {
+    @include busquedaAvanzadaInputs;
+    top: 135px;
+    left: 25px;
+    
+}
+.busquedaAvanzadaNombreLabel {
+    position: relative;
+    left: 25px;
+    top: 35px;
+}
+.busquedaAvanzadaCorporacionLabel {
+    position: relative;
+    top: 140px;
+    right: 550px;
+}
+.busquedaAvanzadaEstatusLabel {
+    position: relative;
+    top: 155px;
+    left: 35px;
+}
+.busquedaInputEstatus {
+    height: 53px;	
+    width: 233px;	
+    border: 1px solid #E5E5E5;	
+    border-radius: 5px;
+    position: relative;
+    top: 160px;
+    left: 30px;
+}
+.busquedaAvanzadaModalidadLabel {
+    position: relative;
+    top: 70px;
+    left: 290px;
+}
+.busquedaInputModalidad {
+    height: 53px;	
+    width: 233px;	
+    border: 1px solid #E5E5E5;	
+    border-radius: 5px;
+    position: relative;
+    top: 75px;
+    left: 280px;
+}
+.busquedaAvanzadaPrimerApellidoLabel {
+    position: relative;
+    left: 560px;
+    bottom: 235px;
+}
+.busquedaInputPrimerApellido {
+    height: 53px;	
+    width: 233px;	
+    border: 1px solid #E5E5E5;	
+    border-radius: 5px;
+    position: relative;
+    left: 440px;
+    bottom: 195px;
+}
+.busquedaAvanzadaSegundoApellidoLabel {
+    position: relative;
+    left: 470px;
+    bottom: 240px;
+}
+.busquedaInputSegundoApellido {
+    height: 53px;	
+    width: 233px;	
+    border: 1px solid #E5E5E5;	
+    border-radius: 5px;
+    position: relative;
+    left: 330px;
+    bottom: 195px;
+}
+.busquedaAvanzadaMunicipioLabel {
+    position: relative;
+    right: 150px;
+    bottom: 140px;
+
+}
+.busquedaInputMunicipio {
+    @include busquedaAvanzadaInputs;
+    left: 550px;
+    bottom: 140px;
+}
+.busquedaAvanzadaFechasLabel {
+    position: relative;
+    left: 570px;
+    bottom: 130px;
+}

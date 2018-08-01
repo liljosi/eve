@@ -1,0 +1,151 @@
+.navItem {
+    font-size: 16px;
+    height: 29px;
+    color: #959595;
+    font-family: Hind;
+    font-weight: bold;
+    margin-left: 60px;
+    &:hover{
+        color: #000000;
+    }
+}
+.linkList {
+    margin-bottom: 80px;
+    margin-left:  100px;
+    margin-right: 30px;
+    width: 780px;
+    border: 2px solid black;
+    position: relative;
+    left: 120px;
+    bottom: 46px;
+    
+}
+.navbar-brand {
+    top: 40px;
+    border: 2px solid black;
+    position: relative;
+    left: 40px;
+    bottom: 80px;
+}
+.col-4 {
+    border-left: 2px solid #F0F0F0;
+    height: 113px;
+    width: 450px;
+    left: 990px;
+    bottom: 190px;
+    background-color: $color-primary;
+
+}
+.col-8 {
+  height: 113px;
+  background-color: $color-primary;
+  border-bottom: 2px solid #F0F0F0;
+ width: 1000px;
+   
+}
+.row {
+    width: 1445px;
+    background-color: $color-primary;
+
+    
+}
+.bodyAspirantes {
+    background-color: $color-secondary;
+    height: 1440px;
+
+}
+.secondaryNavBar {
+    margin-top: 5px;
+    border: 2px solid #F0F0F0;
+    height: 69px;
+    width: 1440px;
+    background-color: $color-primary;
+
+}
+.aspiranteAEvaluarTitle {
+    height: 38px;	
+    width: 205px;	
+    color: #4A4A4A;	
+    font-family: Hind;	
+    font-size: 24px;	
+    font-weight: 600;
+    width: 450px;
+    margin-top: 20px;
+    margin-left: 100px;
+    border: 2px solid black;
+    
+}
+.oval {
+    height: 45px;
+    width: 45px;
+    background-color: #4A90E2;
+    border-radius: 25px;
+}
+.ovalCalendar {
+    position: relative;
+    left: 60px;
+    top: 30px;
+    border: 2px solid black;
+}
+.ovalBell {
+    position: relative;
+    bottom: 15px;
+}
+.aspirantesSearchTabs {
+    position: relative;
+    top: 55px;
+    left: 55px;
+}
+.tabLinks {
+    margin-left: 90px;
+    color: #4A90E2;	
+    font-family: Hind;	
+    font-size: 22px;
+    &:hover {
+        color: $color-primary-blue-dark;
+    }
+}
+
+.form-control {
+    width: 298px;
+   
+}
+
+.form-group {
+  
+    margin-left: 42px;
+}
+
+.btn-primary, .btn {
+    background-color: $color-primary-blue-dark;
+    height: 44px;
+    &:hover {
+        color: $color-primary-blue-dark;
+    }
+}
+
+.form-text {
+    font-size: 12px;
+    font-family: Roboto;
+}
+.form-control {
+    font-size: 12px;
+    font-family: Roboto;
+    color: $color-primary-blue;
+    height: 45px;
+    border-radius: 10px;
+}
+.fa, .fa-user {
+    font-size: 12px;
+    color: $color-primary-blue;
+}
+.lock-addon {
+    position: absolute;
+    top: 85px;
+    font-size: 12px;
+    color: $color-primary-blue;
+
+}
+
+
+

@@ -1,0 +1,129 @@
+.loginContainer {
+    height: 820px;	
+    width: 1446px;
+    background-image: url('../assets/background-login.jpg');
+}
+.loginTextAndLogo {
+  width: 500px;
+  height: 450px;
+  position: relative;
+  left: 250px;
+  top: 150px;
+
+}
+.loginFormContainer {
+    position: relative;
+    left: 810px;
+    bottom: 270px;
+    height: 492px;	
+    width: 380px;	
+    border: 1px solid #F2F2F2;	
+    border-radius: 8px;	
+    background-color: #FFFFFF;	
+    box-shadow: 0 4px 4px 0 rgba(102,102,102,0.5);
+}
+.logoEvantra {
+    height: 70px;
+    width: 206px;
+}
+.logoContainer {
+    height: 116px;
+    width: 250px;
+    position: relative;
+    left: 10px;
+    top: 40px;
+}
+.gestionEfectivaTextContainer {
+    height: 116px;	
+    width: 304px;
+    margin-top: 50px;
+}
+.gestionEfectivaText {
+    color: $color-primary-blue-dark;	
+    font-family: Hind;	
+    font-size: 36px;	
+    font-weight: 300;	
+    line-height: 58px;
+}
+.loginFormSubContainer{
+    position: relative;
+    top: 50px;
+    height: 350px;
+}
+.loginButtonContainer {
+    width: 298px;
+    height: 40px;
+    margin-left: 42px;
+    margin-top: 10px;
+}
+.accountHelpText {
+    position: relative;
+    left: 42px;
+    top: 2px;
+}
+.loginCheckboxContainer {
+    margin-top: 30px;
+}
+.loginBienvenidoText {
+    height: 58px;	
+    width: 170px;
+}
+.loginBienvenidoTextContainer {
+    color: #F25803;	
+    font-family: Hind;	
+    font-size: 36px;	
+    font-weight: 300;
+    position: relative;
+    top: 43px;
+    left: 41px;
+}
+.form-check-label {
+    color: #4A4A4A;	
+    font-family: Roboto;
+    font-size: 12px;
+}
+.loginIngresarLabel {
+    color: #E0E9F1;	
+    font-family: Roboto;	
+    font-size: 14px;	
+    font-weight: bold;
+}
+.loginWelcomeParagraph {
+    height: 60px;	
+    width: 292px;	
+    color: #4A4A4A;	
+    font-family: Hind;	
+    font-size: 12px;	
+    font-weight: 300;
+    position: relative;
+    top: 41px;
+    left: 41px;
+}
+.form-group-addon {
+    position: absolute;
+    top: 6px;
+    left: 310px;
+}
+.form-group-container {
+    margin-top: 25px;
+}
+.loginButton {
+    height: 44px;	
+    width: 298px;	
+    border-radius: 5px;	
+    background-color: $color-primary-blue-dark;
+}
+
+.navLogo {
+    position: relative;
+    bottom: 30px;
+}
+.nuevoAspiranteButton {
+    height: 56px;	
+    width: 254px;	
+    border-radius: 10px;	
+    background-color: #4A90E2;
+    position: relative;
+    left: 1000px;
+    top: 50px;
+}

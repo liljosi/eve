@@ -1,0 +1,47 @@
+[
+    {
+        "aspirante" : "98",
+        "oficio": "DSPVC:0039/206",
+        "nombre" : "Manuel",
+        "primer_apellido": "Rosales",
+        "segundo_apellido": "Ramirez",
+        "curp": "CAMJ900421HCHRRN05",
+        "fecha": "10/03/2018"
+    },
+    {
+        "aspirante" : "736",
+        "oficio": "DSPVC:0837/837",
+        "nombre" : "Adolfo",
+        "primer_apellido": "Alares",
+        "segundo_apellido": "Gonzalez",
+        "curp": "CEMR880711HCHBRB00",
+        "fecha": "09/05/1965" 
+    },
+    {
+        "aspirante" : "938",
+        "oficio": "DSPVC:0736/927",
+        "nombre" : "Lorena Rosales",
+        "primer_apellido": "Artiaga",
+        "segundo_apellido": " Ramirez",
+        "curp": "HEVL910224HCHRLS09",
+        "fecha": "06/02/1967" 
+    },
+    {
+        "aspirante" : "62",
+        "oficio": "DSPVC:0837/252",
+        "nombre" : "Laura Karla",
+        "primer_apellido": "Osorio",
+        "segundo_apellido": "Noriega",
+        "curp": "MAPJ770702HCHRNS08",
+        "fecha": "09/12/2015" 
+    },
+    {
+        "aspirante" : "837",
+        "oficio": "DSPVC:0635/262",
+        "nombre" : "Lamberto",
+        "primer_apellido": "Kintero",
+        "segundo_apellido": "Fausto",
+        "curp": "OIVA860210HCHLGR05",
+        "fecha": "12/02/1972" 
+    }
+]

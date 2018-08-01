@@ -1,0 +1,117 @@
+.nuevoAspiranteFormContainer {
+    height: 793px;	
+    width: 1105px;	
+    border-radius: 5px;	
+    background-color: #FFFFFF;	
+    box-shadow: 0 2px 4px 0 rgba(185,185,185,0.5);
+    position: relative;
+    top: 80px;
+    left: 170px;
+}
+.formInputMedianoOficio {
+    @include inputMediano;
+    position: relative;
+    top:60px;
+    right: 70px;
+}
+.formInputMedianoFecha {
+    @include inputMediano;
+    position: relative;
+    top: 60px;
+    right: 150px;
+}
+.formInputGrandeNombre {
+    @include inputGrande;
+    position: relative;
+    top: 120px;
+    left: 30px;
+}
+.formInputMedianoPrimerApellido {
+    @include inputMediano;
+    position: relative;
+    top: 220px;
+    right: 590px;
+}
+.formInputMedianoSegundoApellido {
+    @include inputMediano;
+    position: relative;
+    top: 170px;
+    left: 300px;
+}
+.formInputMedianoCurp {
+    @include inputMediano;
+    position: relative;
+    top: 270px;
+    right: 260px;
+}
+.formInputMedianoRfc {
+    @include inputMediano;
+    position: relative;
+    top: 270px;
+    right: 240px;
+}
+.formInputMedianoCelular {
+    @include inputMediano;
+    position: relative;
+    top: 380px;
+    right: 810px;
+}
+.formInputMedianoParticular {
+    @include inputMediano;
+    position: relative;
+    top: 330px;
+    left: 150px;
+}
+.formOficioLabel {
+  position: relative;
+  left: 30px;
+  top: 25px;
+}
+.formFechaLabel {
+  position: relative;
+  top: 15px;
+  right: 25px;
+}
+.formNombreLabel {
+  position: relative;
+  top: 120px;
+  right: 660px;
+}
+.formPrimerApellidoLabel {
+    position: relative;
+    top: 170px;
+    right: 470px;
+}
+.formSegundoApellidoLabel {
+    position: relative;
+    top: 175px;
+    right: 550px;
+}
+.formCurpLabel {
+  position: relative;
+  top: 220px;
+  right: 200px;
+}
+.formRfcLabel {
+    position: relative;
+    top: 220px;
+    right: 200px;
+}
+.formCelularLabel {
+    position: relative;
+    top: 330px;
+    right: 750px;
+}
+.formParticularLabel {
+    position: relative;
+    top: 280px;
+    left: 300px;
+}
+.formSideBar {
+    height: 670px;	
+    width: 570px;
+    border-left: 1px solid lightgray; 
+    position: relative;
+    left: 570px;
+    bottom: 210px;
+}
